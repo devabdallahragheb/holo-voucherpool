@@ -107,7 +107,7 @@ The API documentation is available via Swagger. Once the server is running, navi
     
 ##Postman Collection
 
-Access the Postman collection [here](https://orange-satellite-870733.postman.co/workspace/TDRA~912c536b-3f54-49d1-9ac4-014cca31bc3d/collection/27835951-4af1de32-f493-4950-abdc-aa1583f59c9c?action=share&creator=27835951)
+Access the Postman collection [here](https://www.postman.com/orange-satellite-870733/workspace/public/collection/27835951-33adba73-5bd3-4af0-a7ad-af78d4185cd9?action=share&creator=27835951)
  ### Tasks
 * [*] Design a database schema
 * [*] Write an application
