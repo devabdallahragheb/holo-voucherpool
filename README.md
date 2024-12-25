@@ -1,4 +1,4 @@
-# Advanced Bookstore API
+# Voucher Pool API
 
 ## Overview
 A voucher pool is a collection of voucher codes that can be used by customers to get discounts on website. Each code may only be used once, and we would like to know when it was used by the customer. Since there can be many customers in a voucher pool, we need a call that auto-generates voucher codes for each customer. Here’s a screenshot to give you an idea what it looks like:
@@ -15,13 +15,11 @@ A voucher pool is a collection of voucher codes that can be used by customers to
 - DTO-based validation using `class-validator`.
 - Global exception handling for proper error messaging.
 
- 
-  
   
 ## Installation
 ### 1. Clone the repository:
    ```bash
-git clone [https://github.com/devabdallahragheb/advanced-bookstoreAPI.git](https://github.com/devabdallahragheb/holo-voucherpool.git)
+git clone [https://github.com/devabdallahragheb/holo-voucherpool.git](https://github.com/devabdallahragheb/holo-voucherpool.git)
 cd holo-voucherpool
    ```
 ### 2. Create a .env file
