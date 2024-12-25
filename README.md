@@ -19,7 +19,7 @@ A voucher pool is a collection of voucher codes that can be used by customers to
 ## Installation
 ### 1. Clone the repository:
    ```bash
-git clone [https://github.com/devabdallahragheb/holo-voucherpool.git](https://github.com/devabdallahragheb/holo-voucherpool.git)
+git clone [https://github.com/devabdallahragheb/holo-voucherpool.git]
 cd holo-voucherpool
    ```
 ### 2. Create a .env file
